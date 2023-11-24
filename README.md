@@ -1,4 +1,4 @@
-# bstation-23
+# deploy-on-aks-with-instruction-from-scartch
 
 ![Alt text](https://github.com/shihab-uddin-shakil/bstation-23/blob/master/me.drawio.png)
 
